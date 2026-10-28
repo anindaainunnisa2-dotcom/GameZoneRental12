@@ -1,0 +1,26 @@
+
+# GameZoneRental
+
+## Deskripsi
+GameZoneRental adalah aplikasi Java Console untuk menghitung biaya penyewaan PlayStation 4 dan PlayStation 5.
+
+## Fitur
+- Memasukkan nama pelanggan.
+- Memilih konsol PS4 atau PS5.
+- Menghitung biaya sewa dan diskon 10% untuk durasi minimal 3 jam.
+- Menambahkan minuman secara opsional.
+- Menampilkan struk pembayaran.
+- Melakukan transaksi berulang.
+
+## Teknologi
+Java dan Apache NetBeans IDE.
+
+## Cara Menjalankan
+1. Buka proyek di Apache NetBeans.
+2. Buka file GameZoneRental.java.
+3. Jalankan program.
+4. Masukkan data sesuai instruksi pada console.
+
+## Screenshot Output
+Screenshot hasil program akan ditampilkan di bawah ini.
+  
