@@ -53,16 +53,3 @@ Contoh transaksi penyewaan PS5 selama 4 jam dengan tambahan minuman:
 - Biaya minuman: Rp5.000
 - Total pembayaran: Rp48.000 - Rp4.800 + Rp5.000 = Rp48.200
 
-## 7. Screenshot Hasil Output Program
-
-Screenshot berikut menampilkan contoh hasil eksekusi program GameZone Rental PlayStation.
-
-![Screenshot Hasil Output GameZone](screenshot/output.png)
-
-## 8. Identitas Pembuat
-
-Nama: Aninda Ainunnisa
-
-Program Studi: S1 Pendidikan Teknologi Informasi
-
-Universitas: Universitas Muhammadiyah Tasikmalaya
